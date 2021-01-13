@@ -20,7 +20,7 @@ def Weather(timeing):
             key = contents["OpenWeatherKey"]
             Place = contents["City"]
         base_url = "http://api.openweathermap.org/data/2.5/weather?"
-        complete_url = base_url + "q=" + Place + "&518024a766d32327acf4b49f5e47e52f=" + key
+        complete_url = base_url + "q=" + Place + "&APPID=" + key
         response = requests.get(complete_url)
         x = response.json()
         if x["cod"] != "404":
