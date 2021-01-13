@@ -1,8 +1,8 @@
 {
     "!CAUTION!": "PLEASE REFRAIN from TAMPERING with the BELOW DATA!!!",
     "User": "John",
-    "NewsApiKey": "",
-    "OpenWeatherKey": "",
-    "Country": "GB",
-    "City": "London"
+    "NewsApiKey": "b817e39e710842599e785ea661283207",
+    "OpenWeatherKey": "518024a766d32327acf4b49f5e47e52f",
+    "Country": "US",
+    "City": "St. Louis"
 }
