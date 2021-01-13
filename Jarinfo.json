@@ -1,7 +1,7 @@
 {
     "!CAUTION!": "PLEASE REFRAIN from TAMPERING with the BELOW DATA!!!",
-    "User": "USER",
-    "NewsApiKey": "Register@Newsapi.org",
+    "User": "John",
+    "NewsApiKey": "",
     "OpenWeatherKey": "",
     "Country": "GB",
     "City": "London"
